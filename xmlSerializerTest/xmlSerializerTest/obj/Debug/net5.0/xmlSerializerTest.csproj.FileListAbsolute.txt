@@ -1,0 +1,16 @@
+C:\Projects\xmlSerializerTest\xmlSerializerTest\bin\Debug\net5.0\xmlSerializerTest.exe
+C:\Projects\xmlSerializerTest\xmlSerializerTest\bin\Debug\net5.0\xmlSerializerTest.deps.json
+C:\Projects\xmlSerializerTest\xmlSerializerTest\bin\Debug\net5.0\xmlSerializerTest.runtimeconfig.json
+C:\Projects\xmlSerializerTest\xmlSerializerTest\bin\Debug\net5.0\xmlSerializerTest.runtimeconfig.dev.json
+C:\Projects\xmlSerializerTest\xmlSerializerTest\bin\Debug\net5.0\xmlSerializerTest.dll
+C:\Projects\xmlSerializerTest\xmlSerializerTest\bin\Debug\net5.0\ref\xmlSerializerTest.dll
+C:\Projects\xmlSerializerTest\xmlSerializerTest\bin\Debug\net5.0\xmlSerializerTest.pdb
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.csprojAssemblyReference.cache
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.AssemblyInfoInputs.cache
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.AssemblyInfo.cs
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.csproj.CoreCompileInputs.cache
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.dll
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\ref\xmlSerializerTest.dll
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.pdb
+C:\Projects\xmlSerializerTest\xmlSerializerTest\obj\Debug\net5.0\xmlSerializerTest.genruntimeconfig.cache
